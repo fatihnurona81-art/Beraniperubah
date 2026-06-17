@@ -1,0 +1,6 @@
+{
+  "name": "Sigma Habit Tracker",
+  "description": "Sigma Habit Tracker Ultimate - A sleek discipline-building tool with multi-theme capability and local user registration, tailored to level-up your life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
